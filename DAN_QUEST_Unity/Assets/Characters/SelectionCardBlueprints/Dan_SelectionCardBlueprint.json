@@ -1,0 +1,8 @@
+{
+    "name":  "Dan_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Dan.png",
+    "displayName":  "Dan",
+    "role":  "Legendary Hero",
+    "unlockStatus":  "Legendary Locked",
+    "color":  "#FFF1A8"
+}

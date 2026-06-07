@@ -1,0 +1,14 @@
+{
+    "name":  "Gellman",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Gellman.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Gellman_Proxy.prefab",
+    "color":  "#F5C451",
+    "uniqueSilhouette":  {
+                             "headScale":  0.38,
+                             "bodyWidth":  0.66,
+                             "stance":  "business stance",
+                             "prop":  "Money",
+                             "bodyHeight":  0.9
+                         }
+}

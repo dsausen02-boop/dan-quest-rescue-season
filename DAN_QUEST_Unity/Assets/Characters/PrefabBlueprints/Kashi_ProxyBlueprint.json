@@ -1,0 +1,14 @@
+{
+    "name":  "Kashi",
+    "characterType":  "Boss",
+    "portrait":  "Assets/Characters/Portraits/Kashi.png",
+    "proxyPrefab":  "Assets/Prefabs/Bosses/Kashi_Proxy.prefab",
+    "color":  "#8E44AD",
+    "uniqueSilhouette":  {
+                             "headScale":  0.52,
+                             "bodyWidth":  0.96,
+                             "stance":  "boss throne stance",
+                             "prop":  "Crown and assignments",
+                             "bodyHeight":  1.36
+                         }
+}

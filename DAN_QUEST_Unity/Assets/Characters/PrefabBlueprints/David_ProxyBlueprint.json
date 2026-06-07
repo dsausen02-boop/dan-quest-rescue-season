@@ -1,0 +1,14 @@
+{
+    "name":  "David",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/David.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/David_Proxy.prefab",
+    "color":  "#85D6FF",
+    "uniqueSilhouette":  {
+                             "headScale":  0.35,
+                             "bodyWidth":  0.52,
+                             "stance":  "tech side stance",
+                             "prop":  "AI drone",
+                             "bodyHeight":  0.94
+                         }
+}

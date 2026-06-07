@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+    <meta name="theme-color" content="#171923">
+    <title>Mendel's Store Dash</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main id="gameRoot" class="game-root">
+      <canvas id="gameCanvas" aria-label="Mendel's Store Dash game field"></canvas>
+
+      <section class="hud" aria-label="Game status">
+        <div class="hud-panel hud-panel-primary">
+          <span class="hud-kicker">Mendel</span>
+          <div id="hearts" class="hearts" aria-label="Health"></div>
+        </div>
+        <div class="hud-panel hud-panel-meter">
+          <span class="hud-kicker">Store</span>
+          <div class="meter" aria-hidden="true">
+            <span id="storeMeter"></span>
+          </div>
+        </div>
+        <div class="hud-panel hud-panel-status">
+          <span class="hud-kicker">Kashi</span>
+          <strong id="guardStatus">Guarding</strong>
+        </div>
+      </section>
+
+      <section class="touch-controls" aria-label="Touch controls">
+        <div id="movePad" class="move-pad" aria-label="Move">
+          <span id="moveKnob" class="move-knob"></span>
+        </div>
+        <div class="action-pad">
+          <button id="dashButton" class="action-button dash-button" type="button" aria-label="Dash">
+            <span class="dash-icon" aria-hidden="true"></span>
+          </button>
+          <button id="fireButton" class="action-button fire-button" type="button" aria-label="Throw banana">
+            <span class="banana-icon" aria-hidden="true"></span>
+          </button>
+        </div>
+      </section>
+
+      <section id="overlay" class="overlay">
+        <div class="overlay-panel">
+          <p id="overlayKicker" class="overlay-kicker">Street Run</p>
+          <h1 id="overlayTitle">Mendel's Store Dash</h1>
+          <p id="overlayCopy">Kashi is guarding the store with flying money. Break through with bananas and make it to the door.</p>
+          <button id="playButton" class="play-button" type="button">
+            <span class="play-icon" aria-hidden="true"></span>
+            <span id="playLabel">Play</span>
+          </button>
+        </div>
+      </section>
+    </main>
+    <script src="./game.js"></script>
+  </body>
+</html>

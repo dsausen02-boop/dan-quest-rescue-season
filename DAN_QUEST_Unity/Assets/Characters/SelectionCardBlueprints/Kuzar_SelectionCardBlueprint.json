@@ -1,0 +1,8 @@
+{
+    "name":  "Kuzar_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Kuzar.png",
+    "displayName":  "Kuzar",
+    "role":  "Burst / Economy",
+    "unlockStatus":  "Locked",
+    "color":  "#68C58A"
+}

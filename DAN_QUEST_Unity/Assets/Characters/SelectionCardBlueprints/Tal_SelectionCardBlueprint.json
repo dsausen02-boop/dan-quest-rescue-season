@@ -1,0 +1,8 @@
+{
+    "name":  "Tal_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Tal.png",
+    "displayName":  "Tal",
+    "role":  "Leader / Control",
+    "unlockStatus":  "Locked",
+    "color":  "#FF8F52"
+}

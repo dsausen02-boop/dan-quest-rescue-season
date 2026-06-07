@@ -1,0 +1,8 @@
+{
+    "name":  "Amichai_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Amichai.png",
+    "displayName":  "Amichai",
+    "role":  "Melee / Sports Burst",
+    "unlockStatus":  "Locked",
+    "color":  "#4FB46F"
+}

@@ -1,0 +1,14 @@
+{
+    "name":  "Hadar",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Hadar.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Hadar_Proxy.prefab",
+    "color":  "#FF9FC0",
+    "uniqueSilhouette":  {
+                             "headScale":  0.34,
+                             "bodyWidth":  0.5,
+                             "stance":  "leaning cleaner stance",
+                             "prop":  "Window squeegee",
+                             "bodyHeight":  0.86
+                         }
+}

@@ -1,0 +1,14 @@
+{
+    "name":  "Amichai",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Amichai.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Amichai_Proxy.prefab",
+    "color":  "#4FB46F",
+    "uniqueSilhouette":  {
+                             "headScale":  0.38,
+                             "bodyWidth":  0.74,
+                             "stance":  "wide athlete stance",
+                             "prop":  "Soccer ball",
+                             "bodyHeight":  0.92
+                         }
+}

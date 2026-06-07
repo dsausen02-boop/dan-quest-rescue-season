@@ -1,0 +1,14 @@
+{
+    "name":  "Tal",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Tal.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Tal_Proxy.prefab",
+    "color":  "#FF8F52",
+    "uniqueSilhouette":  {
+                             "headScale":  0.38,
+                             "bodyWidth":  0.62,
+                             "stance":  "arguing raised arm stance",
+                             "prop":  "Book and presentation",
+                             "bodyHeight":  1.04
+                         }
+}

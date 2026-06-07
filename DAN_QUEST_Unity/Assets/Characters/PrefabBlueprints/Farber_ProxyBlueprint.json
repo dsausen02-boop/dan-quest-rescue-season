@@ -1,0 +1,14 @@
+{
+    "name":  "Farber",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Farber.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Farber_Proxy.prefab",
+    "color":  "#C97848",
+    "uniqueSilhouette":  {
+                             "headScale":  0.39,
+                             "bodyWidth":  0.78,
+                             "stance":  "heavy mechanic stance",
+                             "prop":  "Wrench",
+                             "bodyHeight":  1.1
+                         }
+}

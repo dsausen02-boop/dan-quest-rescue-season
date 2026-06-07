@@ -1,0 +1,8 @@
+{
+    "name":  "Halel_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Halel.png",
+    "displayName":  "Halel",
+    "role":  "Fast Striker",
+    "unlockStatus":  "Locked",
+    "color":  "#9B78DE"
+}

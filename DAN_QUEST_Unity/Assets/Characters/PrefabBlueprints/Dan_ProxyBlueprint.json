@@ -1,0 +1,14 @@
+{
+    "name":  "Dan",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Dan.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Dan_Proxy.prefab",
+    "color":  "#FFF1A8",
+    "uniqueSilhouette":  {
+                             "headScale":  0.4,
+                             "bodyWidth":  0.64,
+                             "stance":  "heroic centered stance",
+                             "prop":  "Golden aura",
+                             "bodyHeight":  1.18
+                         }
+}

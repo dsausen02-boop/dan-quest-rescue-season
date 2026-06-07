@@ -1,0 +1,8 @@
+{
+    "name":  "Mendel_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Mendel.png",
+    "displayName":  "Mendel",
+    "role":  "Starter Chaos",
+    "unlockStatus":  "Unlocked",
+    "color":  "#EE6656"
+}

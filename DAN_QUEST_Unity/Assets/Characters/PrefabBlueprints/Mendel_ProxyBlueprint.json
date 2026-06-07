@@ -1,0 +1,14 @@
+{
+    "name":  "Mendel",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Mendel.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Mendel_Proxy.prefab",
+    "color":  "#EE6656",
+    "uniqueSilhouette":  {
+                             "headScale":  0.36,
+                             "bodyWidth":  0.56,
+                             "stance":  "chaotic throw stance",
+                             "prop":  "Banana",
+                             "bodyHeight":  0.88
+                         }
+}

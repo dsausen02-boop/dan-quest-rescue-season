@@ -1,0 +1,14 @@
+{
+    "name":  "Amit",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Amit.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Amit_Proxy.prefab",
+    "color":  "#8BA3FF",
+    "uniqueSilhouette":  {
+                             "headScale":  0.36,
+                             "bodyWidth":  0.58,
+                             "stance":  "calm vertical stance",
+                             "prop":  "Scroll",
+                             "bodyHeight":  0.92
+                         }
+}

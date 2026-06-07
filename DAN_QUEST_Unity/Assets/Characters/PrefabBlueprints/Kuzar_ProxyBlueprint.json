@@ -1,0 +1,14 @@
+{
+    "name":  "Kuzar",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Kuzar.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Kuzar_Proxy.prefab",
+    "color":  "#68C58A",
+    "uniqueSilhouette":  {
+                             "headScale":  0.34,
+                             "bodyWidth":  0.5,
+                             "stance":  "cheap guarded stance",
+                             "prop":  "Coupon",
+                             "bodyHeight":  0.9
+                         }
+}

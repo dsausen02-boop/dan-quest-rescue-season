@@ -1,0 +1,8 @@
+{
+    "name":  "Hadar_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Hadar.png",
+    "displayName":  "Hadar",
+    "role":  "Utility / Recovery",
+    "unlockStatus":  "Locked",
+    "color":  "#FF9FC0"
+}

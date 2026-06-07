@@ -1,0 +1,28 @@
+{
+  "name": "dan-quest-rescue-season",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "C:\\Users\\mflan\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe node_modules/vite/bin/vite.js --host 127.0.0.1 --port 5175",
+    "build": "C:\\Users\\mflan\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe node_modules/vite/bin/vite.js build",
+    "preview": "C:\\Users\\mflan\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe node_modules/vite/bin/vite.js preview --host 127.0.0.1 --port 4175",
+    "check": "C:\\Users\\mflan\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe node_modules/vite/bin/vite.js build"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
+    "@react-three/rapier": "^2.2.0",
+    "@theatre/core": "^0.7.2",
+    "@vitejs/plugin-react": "latest",
+    "gsap": "latest",
+    "howler": "latest",
+    "lucide-react": "latest",
+    "phaser": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "three": "^0.184.0",
+    "vite": "latest",
+    "zustand": "^5.0.14"
+  }
+}

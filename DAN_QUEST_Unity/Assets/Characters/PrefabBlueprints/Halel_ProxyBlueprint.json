@@ -1,0 +1,14 @@
+{
+    "name":  "Halel",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Halel.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Halel_Proxy.prefab",
+    "color":  "#9B78DE",
+    "uniqueSilhouette":  {
+                             "headScale":  0.34,
+                             "bodyWidth":  0.48,
+                             "stance":  "slim forward stance",
+                             "prop":  "Crown / motorcycle hint",
+                             "bodyHeight":  1.02
+                         }
+}

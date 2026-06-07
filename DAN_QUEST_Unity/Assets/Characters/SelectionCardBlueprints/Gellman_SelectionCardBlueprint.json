@@ -1,0 +1,8 @@
+{
+    "name":  "Gellman_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Gellman.png",
+    "displayName":  "Gellman",
+    "role":  "Ranged Economy",
+    "unlockStatus":  "Locked",
+    "color":  "#F5C451"
+}

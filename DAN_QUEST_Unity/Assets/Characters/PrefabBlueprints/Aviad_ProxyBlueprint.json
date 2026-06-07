@@ -1,0 +1,14 @@
+{
+    "name":  "Aviad",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Aviad.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Aviad_Proxy.prefab",
+    "color":  "#55B8DC",
+    "uniqueSilhouette":  {
+                             "headScale":  0.35,
+                             "bodyWidth":  0.54,
+                             "stance":  "rookie soldier stance",
+                             "prop":  "Helmet",
+                             "bodyHeight":  0.98
+                         }
+}

@@ -1,0 +1,14 @@
+{
+    "name":  "Goodman",
+    "characterType":  "Hero",
+    "portrait":  "Assets/Characters/Portraits/Goodman.png",
+    "proxyPrefab":  "Assets/Prefabs/Heroes/Goodman_Proxy.prefab",
+    "color":  "#6F8EA8",
+    "uniqueSilhouette":  {
+                             "headScale":  0.37,
+                             "bodyWidth":  0.72,
+                             "stance":  "wide aggressive stance",
+                             "prop":  "Reports",
+                             "bodyHeight":  0.95
+                         }
+}

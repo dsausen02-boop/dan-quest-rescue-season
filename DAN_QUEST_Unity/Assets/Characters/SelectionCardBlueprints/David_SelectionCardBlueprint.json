@@ -1,0 +1,8 @@
+{
+    "name":  "David_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/David.png",
+    "displayName":  "David",
+    "role":  "Tech Summoner",
+    "unlockStatus":  "Locked",
+    "color":  "#85D6FF"
+}

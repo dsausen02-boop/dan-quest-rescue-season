@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+    <meta name="theme-color" content="#10151f">
+    <title>DAN QUEST: Dark Times</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main id="app" class="app">
+      <canvas id="gameCanvas" aria-label="DAN QUEST battlefield"></canvas>
+
+      <section id="hud" class="hud" hidden>
+        <div class="hud-chip hud-mission">
+          <span id="hudLevel" class="hud-kicker">LEVEL</span>
+          <strong id="hudMission">Mission</strong>
+        </div>
+        <div id="partyHud" class="party-hud" aria-label="Party"></div>
+        <div class="hud-chip hud-status">
+          <span id="hudObjective" class="hud-kicker">OBJECTIVE</span>
+          <strong id="hudProgress">Ready</strong>
+        </div>
+      </section>
+
+      <section id="toast" class="toast" aria-live="polite"></section>
+
+      <section id="touchControls" class="touch-controls" hidden aria-label="Touch controls">
+        <div id="movePad" class="move-pad" aria-label="Move">
+          <span id="moveKnob" class="move-knob"></span>
+        </div>
+        <div class="button-cluster">
+          <button id="swapButton" class="round-button swap-button" type="button" aria-label="Swap hero">
+            <span aria-hidden="true"></span>
+          </button>
+          <button id="ultButton" class="round-button ult-button" type="button" aria-label="Ultimate ability">
+            <span aria-hidden="true"></span>
+          </button>
+          <button id="attackButton" class="round-button attack-button" type="button" aria-label="Basic attack">
+            <span aria-hidden="true"></span>
+          </button>
+        </div>
+      </section>
+
+      <button id="pauseButton" class="pause-button" type="button" aria-label="Pause" hidden>
+        <span aria-hidden="true"></span>
+      </button>
+
+      <section id="menuLayer" class="menu-layer"></section>
+    </main>
+    <script src="./game.js"></script>
+  </body>
+</html>

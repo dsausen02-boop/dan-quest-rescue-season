@@ -1,0 +1,8 @@
+{
+    "name":  "Aviad_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Aviad.png",
+    "displayName":  "Aviad",
+    "role":  "Rookie Soldier",
+    "unlockStatus":  "Locked",
+    "color":  "#55B8DC"
+}

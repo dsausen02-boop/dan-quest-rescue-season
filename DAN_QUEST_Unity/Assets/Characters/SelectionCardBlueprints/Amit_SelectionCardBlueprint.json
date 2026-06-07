@@ -1,0 +1,8 @@
+{
+    "name":  "Amit_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Amit.png",
+    "displayName":  "Amit",
+    "role":  "Support / Stabilizer",
+    "unlockStatus":  "Locked",
+    "color":  "#8BA3FF"
+}

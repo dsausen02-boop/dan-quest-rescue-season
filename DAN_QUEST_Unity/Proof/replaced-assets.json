@@ -1,0 +1,156 @@
+[
+    {
+        "name":  "Amit",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Amit.png",
+        "prefab":  "Assets/Prefabs/Heroes/Amit_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Amit_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Amit_SelectionCard.prefab",
+        "bodyShape":  "width=0.58; height=0.92; head=0.36; stance=calm vertical stance",
+        "prop":  "Scroll",
+        "color":  "#8BA3FF"
+    },
+    {
+        "name":  "Hadar",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Hadar.png",
+        "prefab":  "Assets/Prefabs/Heroes/Hadar_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Hadar_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Hadar_SelectionCard.prefab",
+        "bodyShape":  "width=0.5; height=0.86; head=0.34; stance=leaning cleaner stance",
+        "prop":  "Window squeegee",
+        "color":  "#FF9FC0"
+    },
+    {
+        "name":  "Tal",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Tal.png",
+        "prefab":  "Assets/Prefabs/Heroes/Tal_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Tal_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Tal_SelectionCard.prefab",
+        "bodyShape":  "width=0.62; height=1.04; head=0.38; stance=arguing raised arm stance",
+        "prop":  "Book and presentation",
+        "color":  "#FF8F52"
+    },
+    {
+        "name":  "Goodman",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Goodman.png",
+        "prefab":  "Assets/Prefabs/Heroes/Goodman_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Goodman_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Goodman_SelectionCard.prefab",
+        "bodyShape":  "width=0.72; height=0.95; head=0.37; stance=wide aggressive stance",
+        "prop":  "Reports",
+        "color":  "#6F8EA8"
+    },
+    {
+        "name":  "Halel",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Halel.png",
+        "prefab":  "Assets/Prefabs/Heroes/Halel_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Halel_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Halel_SelectionCard.prefab",
+        "bodyShape":  "width=0.48; height=1.02; head=0.34; stance=slim forward stance",
+        "prop":  "Crown / motorcycle hint",
+        "color":  "#9B78DE"
+    },
+    {
+        "name":  "Gellman",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Gellman.png",
+        "prefab":  "Assets/Prefabs/Heroes/Gellman_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Gellman_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Gellman_SelectionCard.prefab",
+        "bodyShape":  "width=0.66; height=0.9; head=0.38; stance=business stance",
+        "prop":  "Money",
+        "color":  "#F5C451"
+    },
+    {
+        "name":  "Farber",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Farber.png",
+        "prefab":  "Assets/Prefabs/Heroes/Farber_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Farber_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Farber_SelectionCard.prefab",
+        "bodyShape":  "width=0.78; height=1.1; head=0.39; stance=heavy mechanic stance",
+        "prop":  "Wrench",
+        "color":  "#C97848"
+    },
+    {
+        "name":  "David",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/David.png",
+        "prefab":  "Assets/Prefabs/Heroes/David_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/David_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/David_SelectionCard.prefab",
+        "bodyShape":  "width=0.52; height=0.94; head=0.35; stance=tech side stance",
+        "prop":  "AI drone",
+        "color":  "#85D6FF"
+    },
+    {
+        "name":  "Mendel",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Mendel.png",
+        "prefab":  "Assets/Prefabs/Heroes/Mendel_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Mendel_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Mendel_SelectionCard.prefab",
+        "bodyShape":  "width=0.56; height=0.88; head=0.36; stance=chaotic throw stance",
+        "prop":  "Banana",
+        "color":  "#EE6656"
+    },
+    {
+        "name":  "Kuzar",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Kuzar.png",
+        "prefab":  "Assets/Prefabs/Heroes/Kuzar_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Kuzar_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Kuzar_SelectionCard.prefab",
+        "bodyShape":  "width=0.5; height=0.9; head=0.34; stance=cheap guarded stance",
+        "prop":  "Coupon",
+        "color":  "#68C58A"
+    },
+    {
+        "name":  "Amichai",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Amichai.png",
+        "prefab":  "Assets/Prefabs/Heroes/Amichai_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Amichai_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Amichai_SelectionCard.prefab",
+        "bodyShape":  "width=0.74; height=0.92; head=0.38; stance=wide athlete stance",
+        "prop":  "Soccer ball",
+        "color":  "#4FB46F"
+    },
+    {
+        "name":  "Aviad",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Aviad.png",
+        "prefab":  "Assets/Prefabs/Heroes/Aviad_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Aviad_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Aviad_SelectionCard.prefab",
+        "bodyShape":  "width=0.54; height=0.98; head=0.35; stance=rookie soldier stance",
+        "prop":  "Helmet",
+        "color":  "#55B8DC"
+    },
+    {
+        "name":  "Dan",
+        "type":  "Hero",
+        "portrait":  "Assets/Characters/Portraits/Dan.png",
+        "prefab":  "Assets/Prefabs/Heroes/Dan_Proxy.prefab",
+        "data":  "Assets/Characters/Heroes/Data/Dan_Data.asset",
+        "selectionCard":  "Assets/Prefabs/Heroes/Cards/Dan_SelectionCard.prefab",
+        "bodyShape":  "width=0.64; height=1.18; head=0.4; stance=heroic centered stance",
+        "prop":  "Golden aura",
+        "color":  "#FFF1A8"
+    },
+    {
+        "name":  "Kashi",
+        "type":  "Boss",
+        "portrait":  "Assets/Characters/Portraits/Kashi.png",
+        "prefab":  "Assets/Prefabs/Bosses/Kashi_Proxy.prefab",
+        "data":  "Assets/Characters/Bosses/Data/Kashi_Data.asset",
+        "selectionCard":  null,
+        "bodyShape":  "width=0.96; height=1.36; head=0.52; stance=boss throne stance",
+        "prop":  "Crown and assignments",
+        "color":  "#8E44AD"
+    }
+]

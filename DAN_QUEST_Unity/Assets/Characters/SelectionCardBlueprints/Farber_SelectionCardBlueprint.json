@@ -1,0 +1,8 @@
+{
+    "name":  "Farber_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Farber.png",
+    "displayName":  "Farber",
+    "role":  "Tank / Mechanic",
+    "unlockStatus":  "Locked",
+    "color":  "#C97848"
+}

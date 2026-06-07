@@ -1,0 +1,8 @@
+{
+    "name":  "Goodman_SelectionCard",
+    "portrait":  "Assets/Characters/Portraits/Goodman.png",
+    "displayName":  "Goodman",
+    "role":  "Bruiser / Chaos",
+    "unlockStatus":  "Locked",
+    "color":  "#6F8EA8"
+}
