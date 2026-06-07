@@ -146,11 +146,13 @@ Object.assign(ENEMIES, {
   spreadsheetAuditor: { name: "Spreadsheet Auditor", hp: 82, speed: 1.45, damage: 15, radius: 0.48, color: "#e8d8ad", mode: "sniper", projectileLabel: "Sheet", projectileColor: "#e8d8ad" },
   keynoteKnight: { name: "Keynote Knight", hp: 118, speed: 1.28, damage: 17, radius: 0.64, color: "#ff8f52", mode: "blocker", projectileLabel: "Slide", projectileColor: "#ff8f52" },
   slideOverlord: { name: "Slide Overlord", hp: 250, speed: 0.9, damage: 24, radius: 0.95, color: "#ff8f52", mode: "miniBoss", projectileLabel: "Deck", projectileColor: "#ff8f52" },
+  meetingMarathoner: { name: "Meeting Marathoner", hp: 260, speed: 0.86, damage: 23, radius: 0.96, color: "#e8d8ad", mode: "miniBoss", projectileLabel: "Agenda", projectileColor: "#e8d8ad" },
 
   bedouinArcher: { name: "Bedouin Archer", hp: 72, speed: 1.55, damage: 16, radius: 0.46, color: "#d9a45f", mode: "sniper", projectileLabel: "Spear", projectileColor: "#d9a45f" },
   camelRider: { name: "Camel Rider", hp: 124, speed: 2.15, damage: 17, radius: 0.7, color: "#c97848", mode: "charger", projectileLabel: "Rock", projectileColor: "#8a6638" },
   desertScout: { name: "Desert Scout", hp: 66, speed: 2.7, damage: 12, radius: 0.44, color: "#f5c451", mode: "skirmisher", projectileLabel: "Rock", projectileColor: "#8a6638" },
   royalTentGuard: { name: "Royal Tent Guard", hp: 245, speed: 0.95, damage: 24, radius: 0.95, color: "#8b5a36", mode: "miniBoss", projectileLabel: "Spear", projectileColor: "#d9a45f" },
+  duneChieftain: { name: "Dune Chieftain", hp: 255, speed: 0.92, damage: 24, radius: 0.96, color: "#c97848", mode: "miniBoss", projectileLabel: "Blade", projectileColor: "#f5c451" },
 
   diceThrower: { name: "Dice Thrower", hp: 74, speed: 1.55, damage: 16, radius: 0.46, color: "#f8f3df", mode: "ranged", projectileLabel: "Dice", projectileColor: "#f8f3df" },
   chipGambler: { name: "Chip Gambler", hp: 86, speed: 1.75, damage: 15, radius: 0.48, color: "#f5c451", mode: "ranged", projectileLabel: "Chip", projectileColor: "#f5c451" },
@@ -201,8 +203,8 @@ Object.assign(ENEMIES, {
 });
 
 const WORLD_ENEMY_ROSTERS = {
-  presentationEmpire: { regular: ["presentationIntern", "meetingEnforcer", "slideBomber", "spreadsheetAuditor", "keynoteKnight"], mini: ["slideOverlord"] },
-  bedouinDesert: { regular: ["bedouinWarrior", "bedouinArcher", "camelRider", "desertScout", "monkey"], mini: ["royalTentGuard"] },
+  presentationEmpire: { regular: ["presentationIntern", "meetingEnforcer", "slideBomber", "spreadsheetAuditor", "keynoteKnight"], mini: ["slideOverlord", "meetingMarathoner"] },
+  bedouinDesert: { regular: ["bedouinWarrior", "bedouinArcher", "camelRider", "desertScout", "monkey"], mini: ["royalTentGuard", "duneChieftain"] },
   casinoKingdom: { regular: ["cardDealer", "casinoGuard", "pokerPro", "diceThrower", "chipGambler"], mini: ["jackpotBruiser"] },
   momsKingdom: { regular: ["choreBot", "errandRunner", "cleaningInspector", "laundryBasketGuard", "groceryBagger"], mini: ["washingMachineWarden"] },
   dateDimension: { regular: ["matchmakerAgent", "dateReminder", "calendarSniper", "flowerThrower", "loveLetterCourier"], mini: ["awkwardDinnerHost"] },
